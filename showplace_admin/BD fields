@@ -1,0 +1,23 @@
+MUSEUMS:
+[
+    NAME
+
+    SUMMARY
+
+    ADDRESS
+
+    TELEPHONE
+
+    PRICE
+
+    SCHEDULE
+
+    DAYOFF
+
+    WEBSITE
+
+    MAP_2gis
+    MAP_googl
+
+    COORDINATES (LATITUDE, LONGITUDE)
+]
